@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hoverLight/static/css/main.578fe58c.css",
+    "main.js": "/hoverLight/static/js/main.6b20d17f.js",
+    "static/js/787.e83991e1.chunk.js": "/hoverLight/static/js/787.e83991e1.chunk.js",
+    "index.html": "/hoverLight/index.html",
+    "main.578fe58c.css.map": "/hoverLight/static/css/main.578fe58c.css.map",
+    "main.6b20d17f.js.map": "/hoverLight/static/js/main.6b20d17f.js.map",
+    "787.e83991e1.chunk.js.map": "/hoverLight/static/js/787.e83991e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.578fe58c.css",
+    "static/js/main.6b20d17f.js"
+  ]
+}
